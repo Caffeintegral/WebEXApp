@@ -1,1 +1,3 @@
-token.py
+firebasetoken.py
+discordToken.py
+__pycache__
